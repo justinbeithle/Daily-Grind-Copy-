@@ -114,7 +114,7 @@ function coffeeTemplate(){
            alt: "A picture of a Madara",
            day: "Bleach",
            rate: "8.5",
-           why: "The drippiest cast of all time. Kubo really popped off on all the character designs and transformations. Ichigo's main theme always gets me hyped and I know something epic is about to happen when it comes on. This is one of those animes where you want to flesh out everybody's abilities and how they work.",
+           why: "The drippiest cast of all time ever. Kubo really popped off on all the character designs and transformations. Ichigo's main theme always gets me hyped and I know something epic is about to happen when it comes on. This is one of those animes where you want to flesh out everybody's abilities and how they work.",
            desc: `"Zangetsu, I won't ask you to 'lend me your power' any more. And I won't tell you 'don't get in my way'. I won't even say 'let us fight together'. I'll fight for myself. Thank you, Zangetsu. You are me"`
        };
     
